@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'YRGKit'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of YRGKit.'
+  s.summary          = 'YRGKit组件库'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/roger.yu/YRGKit'
+  s.homepage         = 'https://github.com/RongguoYu'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'roger.yu' => 'roger.yu@ecoflow.com' }
-  s.source           = { :git => 'https://github.com/roger.yu/YRGKit.git', :tag => s.version.to_s }
+  s.author           = { 'roger.yu' => '1486620101@qq.com' }
+  s.source           = { :git => 'https://github.com/RongguoYu/YRGKit.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '9.0'

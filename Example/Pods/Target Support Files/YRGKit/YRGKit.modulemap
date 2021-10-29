@@ -1,0 +1,6 @@
+framework module YRGKit {
+  umbrella header "YRGKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

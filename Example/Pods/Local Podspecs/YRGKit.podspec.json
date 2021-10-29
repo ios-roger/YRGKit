@@ -1,0 +1,22 @@
+{
+  "name": "YRGKit",
+  "version": "0.1.0",
+  "summary": "A short description of YRGKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/roger.yu/YRGKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "roger.yu": "roger.yu@ecoflow.com"
+  },
+  "source": {
+    "git": "https://github.com/roger.yu/YRGKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "YRGKit/Classes/**/*"
+}
